@@ -1,6 +1,8 @@
 # Clinic Appointments Management System
 
-A Java-based appplication that manages appointments in a clinic. It provides a user-friendly Swing UI that is easy to navigate and use. *This was developed as a project for CC103 (Intermediate Programming).*
+A Java-based appplication that manages appointments in a clinic. It provides a user-friendly Swing UI that is easy to navigate and use. The application follows the MVC + DAO (Model-View-Controller + Data Access Object) design pattern. 
+
+*This was developed as a project for CC103 (Intermediate Programming).*
 
 ### Features
 - **Authentication and Authorization**. Authenticate user with an email and password and provide functionalities based on user role (Doctor/Admin).
